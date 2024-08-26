@@ -1,0 +1,10 @@
+body {
+    background-color: #fce7e7;
+}
+
+h1 {
+    margin-top: 50px;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: underline;
+}
